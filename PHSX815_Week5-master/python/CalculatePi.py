@@ -3,7 +3,7 @@ import sys
 import matplotlib.pyplot as plt
 
 sys.path.append(".")
-from python.Random import Random
+from Random import Random
 
 if __name__ == "__main__":
 
