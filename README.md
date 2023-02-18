@@ -4,10 +4,10 @@
 
 This repository contains several types of programs:
 
-- `CalculatePi.x` [C++] 
-- `GaussRandom.x` [C++]
+- `Homework_5.x`  
+- `Random.py`
 
-and corresponding python versions in `python` directory
+The exercise I attempted was the first option. I tried adding in a different function, but I don't think I got the sampling of that function down right becuase the plot ended up wonky with the target function and proposal function intersecting. Since you said we just had to try these exercises, I thought it might be best to leave it here and continue to work and ask you how to get this working. I did include the plot I generated for reference. 
 
 ### Requirements
 
@@ -24,4 +24,4 @@ command line with the `-h` or `--help` flag, which will print the options
 
 The python scripts can be run with the following options
 - `python python/CalculatePi.py -Nsample [# samples]`
-- `python python/GaussRandom.py -Nsample [# samples] -range [Xmax] --log --expo`
+- `python python/Homework_5.py -Nsample [# samples] -range [Xmax] --log --expo`
